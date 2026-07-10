@@ -1,5 +1,5 @@
 import java.util.*;
-
+// Compress String and ount ex aaabbc - a3b2c1
 public class codedsa{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
